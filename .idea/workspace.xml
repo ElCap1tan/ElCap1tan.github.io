@@ -14,8 +14,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="122" column="12" lean-forward="true" selection-start-line="122" selection-start-column="12" selection-end-line="122" selection-end-column="12" />
+            <state relative-caret-position="1887">
+              <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
               <folding>
                 <element signature="e#4563#4569#0" expanded="true" />
               </folding>
@@ -26,8 +26,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="282" column="21" selection-start-line="282" selection-start-column="21" selection-end-line="282" selection-end-column="21" />
+            <state relative-caret-position="468">
+              <caret line="159" column="18" lean-forward="true" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -46,6 +46,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>padd</find>
+      <find>contac</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -150,16 +151,16 @@
       <workItem from="1522973066675" duration="5585000" />
       <workItem from="1523037375806" duration="9220000" />
       <workItem from="1523056588342" duration="7818000" />
-      <workItem from="1523102417943" duration="1224000" />
+      <workItem from="1523102417943" duration="1832000" />
+      <workItem from="1523115121415" duration="552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33933000" />
+    <option name="totallyTimeSpent" value="35093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -189,6 +190,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="18" lean-forward="true" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
+          <folding>
+            <element signature="e#4563#4569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4794">
+          <caret line="282" column="21" selection-start-line="282" selection-start-column="21" selection-end-line="282" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/promo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
@@ -312,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="122" column="12" lean-forward="true" selection-start-line="122" selection-start-column="12" selection-end-line="122" selection-end-column="12" />
+        <state relative-caret-position="1887">
+          <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
           <folding>
             <element signature="e#4563#4569#0" expanded="true" />
           </folding>
@@ -322,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="282" column="21" selection-start-line="282" selection-start-column="21" selection-end-line="282" selection-end-column="21" />
+        <state relative-caret-position="468">
+          <caret line="159" column="18" lean-forward="true" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
         </state>
       </provider>
     </entry>

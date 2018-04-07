@@ -143,8 +143,23 @@ color: #fff;
     font-family: 'Montserrat', sans-serif;
     color: white;
 }
+@media only screen and (max-width: 320px) {
+    .learn-more h4 {
+        font-size: 1rem;
+    }
+}
 .contact-btn {
     padding-top: 60px;
+}
+@media only screen and (max-width: 414px) {
+    .contact-btn {
+        padding-top: 35px;
+    }
+}
+@media only screen and (max-width: 414px) {
+    .contact-btn {
+        padding-bottom: 40px;
+    }
 }
 .promo-text {
     color: #7fffd4;
