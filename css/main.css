@@ -237,6 +237,11 @@ color: #fff;
         max-height: 300px;
     }
 }
+@media only screen and (max-width: 800px) {
+    .website img {
+        padding-top: 20px;
+    }
+}
 .testemonial {
     font-family: 'Montserrat', sans-serif;
     font-style: italic;
