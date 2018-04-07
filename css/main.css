@@ -256,22 +256,31 @@ color: #fff;
     width: 50px;
     height: auto;
 }
-#cv {
-    margin-top: 50px;
-}
 #cv img{
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 35px;
 }
 #cv h3 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 50px;
     padding-bottom: 40px;
     font-size: 3.5rem;
     font-weight: 900;
+}
+#cv p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #454545;
+    font-weight: 200;
+}
+.cv-link {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 footer {
     padding: 45px 0 35px;
