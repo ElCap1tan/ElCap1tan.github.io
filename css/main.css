@@ -256,3 +256,46 @@ color: #fff;
     width: 50px;
     height: auto;
 }
+#cv {
+    margin-top: 50px;
+}
+#cv img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#cv h3 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+footer {
+    padding: 45px 0 35px;
+    background-color: #252a30;
+    color: #fff;
+    text-align: center;
+}
+footer p.made-by-me {
+    margin: 10px 0;
+    color: rgba(255,255,255,0.4);
+    font-size: 0.6rem;
+}
+
+footer .social-links a {
+    display: inline-block;
+    color: rgba(255,255,255,0.6);
+    text-decoration: none;
+    margin: 0 4px;
+    height: 36px;
+    width: 36px;
+    font-size: 1.6rem;
+    line-height: 2.3;
+    transition: color 0.6s;
+}
+footer .social-links a:hover {
+    color: #FED766;
+}
