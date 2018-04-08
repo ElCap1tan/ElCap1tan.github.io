@@ -101,7 +101,12 @@ color: #fff;
     border: 1px solid #e67e22;
     margin-right: 15px;
 }
-
+@media only screen and (max-width: 522px) {
+    .btn-full:link,
+    .btn-full:visited {
+        margin-right: 0px;
+    }
+}
 .btn-ghost:link,
 .btn-ghost:visited {
     border: 1px solid #e67e22;
