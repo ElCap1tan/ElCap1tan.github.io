@@ -1,6 +1,4 @@
 $(window).load(function() {
 		// Animate loader off screen
-		$(".se-pre-con").fadeOut("slow", "swing", function() {
-			//Empty
-		});
+		jQuery(".se-pre-con").fadeOut("slow");
 	});
