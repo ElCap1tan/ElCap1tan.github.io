@@ -1,9 +1,0 @@
-ProgressPrinter
-===============
-
-.. toctree::
-   :maxdepth: 4
-
-   ProgressPrinter
-   examples_byte_progress_bar
-   examples_progress_bar
